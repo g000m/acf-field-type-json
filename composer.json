@@ -1,5 +1,5 @@
 {
-  "name": "bitterend/acf-field-type-json",
+  "name": "g000m/acf-field-type-json",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "Advanced Custom Fields - JSON",
